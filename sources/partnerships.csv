@@ -1,4 +1,0 @@
-record_id,partnership_id,account_id,merchant_id,product_id,valid_from,valid_to,relation_state
-partnerships-01,PT-2,HOST-1,SHOP-7,SKU-4,2026-07-01,2026-07-31,confirmed
-partnerships-02,PT-3,HOST-1,SHOP-9,SKU-8,2026-07-15,,under_review
-partnerships-03,PT-4,HOST-2,SHOP-7,SKU-6,2026-07-01,2026-08-15,ended

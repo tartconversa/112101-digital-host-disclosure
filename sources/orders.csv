@@ -1,4 +1,0 @@
-record_id,order_id,post_id,placed_at,fulfillment_state,refund_at,issue_code
-orders-01,O-101,POST-10,2026-07-05T11:00:00Z,delivered,,
-orders-02,O-102,POST-10,2026-07-06T13:00:00Z,returned,2026-07-12T08:00:00Z,item_difference
-orders-03,O-103,POST-11,2026-07-16T10:30:00Z,pending,,

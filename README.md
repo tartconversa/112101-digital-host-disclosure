@@ -1,16 +1,16 @@
-# q007-digital-host-disclosure
+# 助农产地承诺事实资料库
 
-数字人账号合作、内容披露和订单履约的合成来源资料。
+助农视频商品承诺、农产品批次凭证和订单发货的合成来源资料。
 
 原始资料使用 UTF-8 CSV 保存，时间值采用带时区的 ISO 8601 格式。资料为虚构样例，其中包含不同事件时间、记录时间和待核实状态，不对应真实个人或平台。
 
 ## 目录
 
 - `sources/` 保存原始业务记录。
-- `sources/partnerships.csv`
-- `sources/posts.csv`
-- `sources/orders.csv`
-- `src/digital_host_trade/` 是 Python 包入口。
+- `sources/content_claims.csv`
+- `sources/lot_records.csv`
+- `sources/shipments.csv`
+- `src/origin_fulfillment/` 是 Python 包入口。
 - `tests/` 检查随项目提供的源文件格式。
 
 ## 环境
