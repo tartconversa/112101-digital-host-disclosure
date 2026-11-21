@@ -1,0 +1,4 @@
+record_id,lot_id,supplier_id,product_id,origin_region,harvest_date,certificate_ref,record_state
+lot_records-01,LOT-31,FARM-2,SKU-8,REGION-A,2026-06-25,CERT-11,verified
+lot_records-02,LOT-32,FARM-5,SKU-8,REGION-B,2026-06-27,CERT-14,verified
+lot_records-03,LOT-33,FARM-3,SKU-3,REGION-C,2026-07-01,CERT-18,verified

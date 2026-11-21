@@ -1,0 +1,3 @@
+record_id,order_id,post_id,post_revision,product_id,placed_at,order_state
+orders-01,ORD-90,POST-4,1,SKU-8,2026-07-05T10:40:00Z,confirmed
+orders-02,ORD-91,POST-4,1,SKU-8,2026-07-06T08:10:00Z,confirmed

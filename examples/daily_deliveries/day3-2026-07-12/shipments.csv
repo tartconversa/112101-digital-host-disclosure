@@ -1,0 +1,6 @@
+record_id,shipment_id,order_id,product_id,lot_id,shipped_at,delivered_at,replaces_shipment,aftercare_state
+shipments-01,SHIP-51,ORD-90,SKU-8,LOT-31,2026-07-06T11:00:00Z,2026-07-08T16:00:00Z,,complete
+shipments-02,SHIP-52,ORD-91,SKU-8,LOT-32,2026-07-07T12:00:00Z,2026-07-09T18:00:00Z,,origin_question
+shipments-03,SHIP-53,ORD-92,SKU-3,LOT-33,2026-07-10T09:00:00Z,,SHIP-50,substitute
+shipments-04,SHIP-54,ORD-93,SKU-8,LOT-31,2026-07-12T08:30:00Z,,,split
+shipments-05,SHIP-55,ORD-93,SKU-8,LOT-32,2026-07-12T15:30:00Z,,,split

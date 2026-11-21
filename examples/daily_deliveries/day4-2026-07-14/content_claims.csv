@@ -1,0 +1,4 @@
+record_id,claim_id,post_id,revision,product_id,claim_kind,claim_value,published_at
+content_claims-01,CL-20,POST-4,1,SKU-8,origin,REGION-A,2026-07-05T10:00:00Z
+content_claims-02,CL-21,POST-4,2,SKU-8,origin,REGION-A,2026-07-08T09:00:00Z
+content_claims-03,CL-22,POST-9,1,SKU-3,harvest_window,2026-06-20/2026-06-30,2026-07-09T14:00:00Z
