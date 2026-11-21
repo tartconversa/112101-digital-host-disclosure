@@ -8,6 +8,7 @@
 
 - `sources/` 保存原始业务记录。
 - `sources/content_claims.csv`
+- `sources/orders.csv`
 - `sources/lot_records.csv`
 - `sources/shipments.csv`
 - `src/origin_fulfillment/` 是 Python 包入口。
